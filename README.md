@@ -30,6 +30,12 @@ The dataset contains simulated driving scenarios and customer responses to diffe
 
 ---
 
+## Jupyter Notebook
+
+[View the full analysis notebook](notebook/coupon_result_notebook.ipynb)
+
+---
+
 ## Technologies Used
 
 - Python
